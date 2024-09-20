@@ -4,10 +4,5 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+Reward token: 0x519c0568df053f5551c29ee07bc0cefb3fdb097f
+staking Token :0xecb93b5ad79d3affe318a5d483730afce9569df8
